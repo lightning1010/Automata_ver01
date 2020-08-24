@@ -1,0 +1,6 @@
+Command-line for DFA
+
+./DFA.exe teststring < trans-table.txt
+
+
+Example : ./DFA.exe aabbb < trans-table.txt
